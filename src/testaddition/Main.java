@@ -9,6 +9,7 @@ public class Main {
 			int x= num + num2;
 			System.out.println(test);
 			System.out.println(x);
+			System.out.println("Test 2 passed");
 		
 	}
 }
